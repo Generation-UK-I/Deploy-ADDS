@@ -4,20 +4,10 @@ This module should be shared with learners upon completion of the accompanying [
 
 ## Windows Servers
 
-Similar to Microsoft's market dominance in productivity applications with Office365 (Now Microsoft365), they also make some of the most popular software for managing your IT infrastructure, including users and devices. As discussed in the preceding presentation, one of the most significant software suites offered is Active Directory, and it's related features. 
+Similar to Microsoft's market dominance in productivity applications with Office365 (Now Microsoft365), they also make some of the most popular software for managing your IT environment, including users and devices. As discussed in the preceding presentation, one of the most significant software suites offered is Active Directory, and it's related features.
 
 Active Directory is typically installed on a Windows Server, so that's where we need to start.
 
-As we mentioned in the presentation, there are several ways to install a Server, the quickest way is to attach an existing, pre-installed virtual hard disk (VHD), or you could also install to a blank VM from an ISO. 
-
-This tutorial is going to use Windows Server 2022, and both VHD and ISO can be downloaded from here:  
-[Windows Server 2022 download](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)
-
-If installing from an `ISO` you will have to go through the installation process, if using an existing `VHD`, you will just be asked to set a password for your administrator account before landing at the desktop.
-
-For this demo I used the VHD option, created a new virtual machine, selected `Use an Existing Virtual Hard Disk File`, and pointed it to the downloaded VHD.
-
-![DIAGRAM](./img/VBox-vhd.jpg)
 
 ### Installing Roles and Features
 
