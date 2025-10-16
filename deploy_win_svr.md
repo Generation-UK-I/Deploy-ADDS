@@ -40,7 +40,7 @@ To retrieve the administrator credentials and connect to your instance:
 6. Open the RDP file you downloaded in step 2, accept any trust challenges, and enter the password you copied when prompted.
 7. After a few moments you should be presented with a Windows Desktop, but be aware that we've chosen a low powered instance, it may take some time to load.
 
-The Windows Server 2019 desktop looks just like the Windows 10 one, so when you're presented with it, you can return to the [ADDS tutorial](/Deploy-ADDS.md).
+The Windows Server 2019 desktop looks just like the Windows 10 one, so when you're presented with it, you can return to the [ADDS tutorial](/readme.md).
 
 
 ## Creating a Windows Server VirtualBox VM
