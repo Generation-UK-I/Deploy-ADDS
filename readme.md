@@ -8,8 +8,9 @@ Similar to Microsoft's market dominance in productivity applications with Office
 
 Active Directory is typically installed on a Windows Server, so that's where we need to start.
 
+[Click here](/deploy_win_svr.md) for the guide on deploying Windows Server
 
-### Installing Roles and Features
+## Installing Roles and Features
 
 ***Please note -  the following processes may take a while, especially if your VirtualBox installation is using software-based virtualisation, i.e. you have the little green turtle on the status bar***
 
